@@ -1,0 +1,5 @@
+{
+  "name": "Image Editor & Generator",
+  "description": "An AI-powered tool to edit, transform, and generate images from text prompts.",
+  "requestFramePermissions": []
+}
